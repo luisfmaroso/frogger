@@ -1,0 +1,7 @@
+# Build output
+*.exe
+*.o
+
+# Generated at runtime
+phases.bin
+save.txt
